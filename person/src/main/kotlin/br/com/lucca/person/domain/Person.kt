@@ -1,4 +1,4 @@
-package br.com.lucca.patient.domain
+package br.com.lucca.person.domain
 
 import arrow.core.Nel
 import arrow.core.Validated

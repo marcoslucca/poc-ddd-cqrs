@@ -1,7 +1,7 @@
-package br.com.lucca.patient.domain.command
+package br.com.lucca.person.domain.command
 
 import br.com.lucca.crosscutting.logs.LogWrapper
-import br.com.lucca.patient.domain.adapter.PersonAdapter
+import br.com.lucca.person.domain.adapter.PersonAdapter
 import org.springframework.stereotype.Component
 import org.springframework.transaction.annotation.Propagation
 import org.springframework.transaction.annotation.Transactional

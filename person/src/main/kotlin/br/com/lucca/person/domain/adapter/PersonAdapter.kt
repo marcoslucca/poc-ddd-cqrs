@@ -1,7 +1,7 @@
-package br.com.lucca.patient.domain.adapter
+package br.com.lucca.person.domain.adapter
 
 import arrow.core.Option
-import br.com.lucca.patient.domain.Person
+import br.com.lucca.person.domain.Person
 
 interface PersonAdapter {
 

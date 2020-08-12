@@ -1,6 +1,6 @@
-package br.com.lucca.patient.domain.command
+package br.com.lucca.person.domain.command
 
-import br.com.lucca.patient.domain.Person
+import br.com.lucca.person.domain.Person
 
 data class RegisterPerson(val properties: Map<String, Any>) {
 

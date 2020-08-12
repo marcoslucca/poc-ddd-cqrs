@@ -1,4 +1,4 @@
-package br.com.lucca.patient.infrastructure.repository
+package br.com.lucca.person.infrastructure.repository
 
 import org.hibernate.annotations.CreationTimestamp
 import org.hibernate.annotations.UpdateTimestamp

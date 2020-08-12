@@ -1,10 +1,10 @@
-package br.com.lucca.patient.infrastructure.adapter
+package br.com.lucca.person.infrastructure.adapter
 
 import arrow.core.Option
 import br.com.lucca.crosscutting.extension.toOption
-import br.com.lucca.patient.domain.Person
-import br.com.lucca.patient.domain.adapter.PersonAdapter
-import br.com.lucca.patient.infrastructure.repository.PersonRepository
+import br.com.lucca.person.domain.Person
+import br.com.lucca.person.domain.adapter.PersonAdapter
+import br.com.lucca.person.infrastructure.repository.PersonRepository
 import org.springframework.stereotype.Component
 
 @Component
